@@ -1,3 +1,5 @@
 # hello-world
 My 1st repository 
-I am Abdul Wadood, student of UIT studying computer science and I love programming 
+dakdmskdaskldjaksjdlksjdakljsdkljad 
+address: 127.0.0.1 
+xd
